@@ -15,6 +15,13 @@ A collection of extended recordings of archived tornado coverage from various me
 | -----------| ------------------ | ---------- | ----- | ---------- | - | - | - | - | - |
 | 1999-05-03 | [Bridge Creek - Moore Tornado](https://en.wikipedia.org/wiki/1999_Bridge_Creek–Moore_tornado) | F5 | 1 mi | 36 | [📺 KFOR](https://www.youtube.com/watch?v=SspJqjf5gyI) | [📺 KWTV](https://www.youtube.com/watch?v=KNIDjqts27E) | [📺 KOCO](https://www.youtube.com/watch?v=RGiI7DzpFmg) | |
 
+## 2000s
+
+| Date       | Event              | Max Rating | Width | Fatalities | - | - | - | - | - |
+| -----------| ------------------ | ---------- | ----- | ------- | - | - | - | - | - |
+| 2007-05-04 | Greensburg, KS, Tornado | EF5 | 1.7 miles | 13 | [📺 KSN](https://www.youtube.com/watch?v=EGrErqGrtjw&t=306s)| | | | |
+
+https://www.youtube.com/watch?v=SdPOkB9qiBY&t=5677s
 
 ## 2010s
 | Date       | Event              | Max Rating | Width | Fatalities | - | - | - | - | - |
