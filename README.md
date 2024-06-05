@@ -19,9 +19,8 @@ A collection of extended recordings of archived tornado coverage from various me
 
 | Date       | Event              | Max Rating | Width | Fatalities | - | - | - | - | - |
 | -----------| ------------------ | ---------- | ----- | ------- | - | - | - | - | - |
-| 2007-05-04 | Greensburg, KS, Tornado | EF5 | 1.7 miles | 13 | [📺 KSN](https://www.youtube.com/watch?v=EGrErqGrtjw&t=306s)| | | | |
+| 2007-05-04 | Greensburg, KS, Tornado | EF5 | 1.7 miles | 13 | [📺 KSN](https://www.youtube.com/watch?v=EGrErqGrtjw&t=306s)| [📺 KAKE](https://www.youtube.com/watch?v=Bg2344fvl3I) | [🎞️ KAKE Documentary](https://www.youtube.com/watch?v=xA-ahzcfqG8) | | |
 
-https://www.youtube.com/watch?v=SdPOkB9qiBY&t=5677s
 
 ## 2010s
 | Date       | Event              | Max Rating | Width | Fatalities | - | - | - | - | - |
