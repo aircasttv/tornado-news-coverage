@@ -31,7 +31,6 @@ A collection of extended recordings of archived tornado coverage from various me
 | 2013-05-20 | [Bridge Creek - Moore Tornado](https://en.wikipedia.org/wiki/1999_Bridge_Creek–Moore_tornado) | EF5 | 1.07 mi | 24 | [📺 KFOR](https://www.youtube.com/watch?v=Ga7niHGgSN4&t=14s) | [📺 KWTV](https://www.youtube.com/watch?v=eIkR8ZhlRFk&t=30s) | [📺 KOCO](https://www.youtube.com/watch?v=RGiI7DzpFmg) | [📡 Weather Chanel](https://www.youtube.com/watch?v=5HVIEeFFBcQ) | [📹 Synced Footage](https://www.youtube.com/watch?v=5HVIEeFFBcQ) |
 
 ## 2020s 
-https://www.youtube.com/watch?v=Ey1chYEyiM4
 | Date       | Event              | Max Rating | Width | Fatalities | - | - | - | - | - |
 | -----------| ------------------ | ---------- | ----- | ------- | - | - | - | - | - |
 | 2024-05-25 | Claremore, OK | EF3 | 1.1 miles | 2 | [📺 KOTV](https://www.youtube.com/live/0dT-V8njk0g?si=eqN4BGcjSMzQMaL2&t=5152) | 
