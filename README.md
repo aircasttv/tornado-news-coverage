@@ -35,5 +35,5 @@ https://www.youtube.com/watch?v=Ey1chYEyiM4
 | Date       | Event              | Max Rating | Width | Fatalities | - | - | - | - | - |
 | -----------| ------------------ | ---------- | ----- | ------- | - | - | - | - | - |
 | 2024-05-25 | Claremore, OK | EF3 | 1.1 miles | 2 | [KOTV](https://www.youtube.com/live/0dT-V8njk0g?si=eqN4BGcjSMzQMaL2&t=5152) | 
-| 2024-05-26 | Rogers | EF2 | 1.7 miles | 64 | 0 | [📺 KFSM](https://www.youtube.com/watch?v=Ey1chYEyiM4)
+| 2024-05-26 | Rogers, AR | EF2 | 1.7 miles | 0 | [📺 KFSM](https://www.youtube.com/watch?v=Ey1chYEyiM4)
 
