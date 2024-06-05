@@ -19,6 +19,6 @@ A collection of extended recordings of archived tornado coverage from various me
 ## 2010s
 | Date       | Event              | Max Rating | Width | Fatalities | - | - | - | - | - |
 | -----------| ------------------ | ---------- | ----- | ------- | - | - | - | - | - |
-| 2011-04-27 | [2011 Super Outbreak](https://en.wikipedia.org/wiki/2011_Super_Outbreak) Tuscalloosa-Birmingham Tornado | EF4 | 1.5 miles | 64 | [📺 WBMA](https://www.youtube.com/watch?v=ElZZNvNdhks) | [📺 WIAT](https://www.youtube.com/watch?v=EGrErqGrtjw) | [📡 Weather Channel](https://www.youtube.com/watch?v=SdPOkB9qiBY) | | |
+| 2011-04-27 | [2011 Super Outbreak](https://en.wikipedia.org/wiki/2011_Super_Outbreak) Tuscaloosa-Birmingham Tornado | EF4 | 1.5 miles | 64 | [📺 WBMA](https://www.youtube.com/watch?v=ElZZNvNdhks) | [📺 WIAT](https://www.youtube.com/watch?v=EGrErqGrtjw) | [📡 Weather Channel](https://www.youtube.com/watch?v=SdPOkB9qiBY) | | |
 | 2013-05-20 | [Bridge Creek - Moore Tornado](https://en.wikipedia.org/wiki/1999_Bridge_Creek–Moore_tornado) | EF5 | 1.07 mi | 24 | [📺 KFOR](https://www.youtube.com/watch?v=Ga7niHGgSN4&t=14s) | [📺 KWTV](https://www.youtube.com/watch?v=eIkR8ZhlRFk&t=30s) | [📺 KOCO](https://www.youtube.com/watch?v=RGiI7DzpFmg) | [📡 Weather Chanel](https://www.youtube.com/watch?v=5HVIEeFFBcQ) | [📹 Synced Footage](https://www.youtube.com/watch?v=5HVIEeFFBcQ) |
 
