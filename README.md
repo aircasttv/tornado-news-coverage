@@ -38,13 +38,13 @@ A collection of extended recordings of archived tornado coverage from various me
 
 | Date       | Event              | Max Rating | Width | Fatalities | - | - | - | - | - |
 | -----------| ------------------ | ---------- | ----- | ------- | - | - | - | - | - |
-| 2007-05-04 | Greensburg, KS | EF5 | 1.7 miles | 13 | [📺 KSN](https://www.youtube.com/watch?v=EGrErqGrtjw&t=306s)| [📺 KAKE](https://www.youtube.com/watch?v=Bg2344fvl3I) | [🎞️ KAKE Documentary](https://www.youtube.com/watch?v=xA-ahzcfqG8) | | |
+| 2007-05-04 | Greensburg, KS | EF5 | 1.7 miles | 13 | [📺 KSN](https://www.youtube.com/watch?v=9fEh1PWSvfc)| [📺 KAKE](https://www.youtube.com/watch?v=Bg2344fvl3I) | [🎞️ KAKE Documentary](https://www.youtube.com/watch?v=xA-ahzcfqG8) | | |
 
 
 ## 2010s
 | Date       | Event              | Max Rating | Width | Fatalities | - | - | - | - | - |
 | -----------| ------------------ | ---------- | ----- | ------- | - | - | - | - | - |
-| 2011-04-27 | [2011 Super Outbreak](https://en.wikipedia.org/wiki/2011_Super_Outbreak) Tuscaloosa-Birmingham Tornado | EF4 | 1.5 miles | 64 | [📺 WBMA](https://www.youtube.com/watch?v=ElZZNvNdhks) | [📺 WIAT](https://www.youtube.com/watch?v=EGrErqGrtjw) | [📡 Weather Channel](https://www.youtube.com/watch?v=SdPOkB9qiBY) | | |
+| 2011-04-27 | [2011 Super Outbreak](https://en.wikipedia.org/wiki/2011_Super_Outbreak) Tuscaloosa-Birmingham Tornado | EF4 | 1.5 miles | 64 | [📺📹 WBMA](https://www.youtube.com/watch?v=ElZZNvNdhks) | [📺📹 WIAT](https://www.youtube.com/watch?v=EGrErqGrtjw) | [📡📹 Weather Channel](https://www.youtube.com/watch?v=SdPOkB9qiBY) | | |
 | 2011-05-22 | [Joplin](https://en.wikipedia.org/wiki/2011_Joplin_tornado) | EF5 | 1 mile | 158 | [📺 KSNF](https://www.youtube.com/watch?v=FagzNHuI5JI) | [📡 Weather Channel](https://www.youtube.com/watch?v=ahzO6iIWtok) | | |
 | 2011-05-25 | Glenn and Butte counties in California | EF2 | 120ft | 0 | [📺 KCRA](https://www.youtube.com/watch?v=X0X7_a0DJF4) | 
 | 2013-05-20 | [Bridge Creek - Moore Tornado](https://en.wikipedia.org/wiki/1999_Bridge_Creek–Moore_tornado) | EF5 | 1.07 mi | 24 | [📺🚁 KFOR](https://www.youtube.com/watch?v=Ga7niHGgSN4&t=14s) | [📺🚁 KWTV](https://www.youtube.com/watch?v=eIkR8ZhlRFk&t=30s) | 📺 KOCO | [📡🚁 Weather Chanel](https://www.youtube.com/watch?v=5HVIEeFFBcQ) | [📹 Synced Footage](https://www.youtube.com/watch?v=5HVIEeFFBcQ) |
