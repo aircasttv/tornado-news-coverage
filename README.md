@@ -2,6 +2,12 @@
 
 A collection of extended recordings of archived tornado coverage from various media outlets. 
 
+📻 = Radio Broadcast
+📺 = TV Broadcast
+📡 = Cable/Satelite Broadcast
+🚁 = Helicopter footage of tornado
+📹 = Video footage of tornado
+
 ## 1960s
 | Date       | Event              | Max Rating | Width | Fatalities | - | - | - | - | - |
 | -----------| ------------------ | ---------- | ----- | ---------- | - | - | - | - | - |
