@@ -16,6 +16,12 @@ A collection of extended recordings of archived tornado coverage from various me
 | 1974-04-03 | Super Outbreak - Louisville, KY | F4 | 200 yds | | [📻 WHAS AM (part 1)](https://www.youtube.com/watch?v=5orxm6fDKWQ), [Part 2](https://www.youtube.com/watch?v=P08-MwC53M0&list=PL6gRgnNf7ghd6cNKgxq9Q52jOrwwB_lRv), [Part 3](https://www.youtube.com/watch?v=Cv3Ouc82R0o), [Part 4](https://www.youtube.com/watch?v=RkGs6xGB8Eg) | | |
 
 
+## 1980s
+| Date       | Event              | Max Rating | Width | Fatalities | - | - | - | - | - |
+| -----------| ------------------ | ---------- | ----- | ---------- | - | - | - | - | - |
+| 1986-07-18 | Friedly, MN | F2 |  | 0 | [📺🚁 KARE](https://www.youtube.com/watch?v=SphbqvD7qSQ) |
+
+
 ## 1990s
 
 | Date       | Event              | Max Rating | Width | Fatalities | - | - | - | - | - |
