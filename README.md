@@ -7,6 +7,7 @@ A collection of extended recordings of archived tornado coverage from various me
 - 📡 = Cable/Satelite Broadcast
 - 🚁 = Helicopter live video of tornado
 - 📹 = Live video of tornado
+
 (video of power flashes, rain wrapped tornados, or video aired later is not indicated)
 
 ## 1960s
