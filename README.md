@@ -25,7 +25,7 @@ A collection of extended recordings of archived tornado coverage from various me
 ## 1980s
 | Date       | Event              | Max Rating | Width | Fatalities | - | - | - | - | - |
 | -----------| ------------------ | ---------- | ----- | ---------- | - | - | - | - | - |
-| 1984-03-29 | [Carolinas](https://en.wikipedia.org/wiki/1984_Carolinas_tornado_outbreak) | F4 | 2.5 mi | 57 | [📺 WRAL (extended after storm report)](https://www.youtube.com/watch?v=-A4T8rCIJSQ) | 
+| 1984-03-29 | [Carolinas](https://en.wikipedia.org/wiki/1984_Carolinas_tornado_outbreak) | F4 | 2.5 mi | 57 | [📺 WRAL (after storm special)](https://www.youtube.com/watch?v=-A4T8rCIJSQ) | 
 | 1986-07-18 | Friedly, MN | F2 |  | 0 | [📺🚁 KARE](https://www.youtube.com/watch?v=SphbqvD7qSQ) |
 
 
