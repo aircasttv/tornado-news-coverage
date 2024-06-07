@@ -8,6 +8,8 @@ A collection of extended recordings of archived tornado coverage from various me
 - 🚁 = Helicopter footage of tornado
 - 📹 = Video footage of tornado
 
+(footage of power flashes, rain wrapped tornados is not indicated)
+
 ## 1960s
 | Date       | Event              | Max Rating | Width | Fatalities | - | - | - | - | - |
 | -----------| ------------------ | ---------- | ----- | ---------- | - | - | - | - | - |
