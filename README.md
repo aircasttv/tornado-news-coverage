@@ -38,7 +38,7 @@ A collection of extended recordings of archived real-time tornado coverage from 
 | 1996-05-27 | [Lousiville suburbs](https://en.wikipedia.org/wiki/May_1996_Kentucky_tornado_outbreak#Southern_Louisville_suburbs_tornado) | F4 | 0.5 | 0 | [📺 WAVE, WHAS, WDRB (aftermath and other storms)](https://www.youtube.com/watch?v=frWbyRiXkSg) |
 | 1998-04-08 | [Birmingham](https://en.wikipedia.org/wiki/Tornado_outbreak_of_April_6–9,_1998#Birmingham,_Alabama) | F5 | 0.75mi | 32 | [📺 WBMA](https://www.youtube.com/watch?v=Uqvre6mHm9c) 
 | 1998-04-16 | [Lawrence County, TN](https://en.wikipedia.org/wiki/Tornado_outbreak_of_April_15–16,_1998#Lawrence_County,_Tennessee_(The_Forgotten_F5)) | F5 |  | 0 | [📺 WHNT](https://www.youtube.com/watch?v=z7XThkkKgcY) | 
-| 1999-01-21 | [Little Rock](https://en.wikipedia.org/wiki/Tornado_outbreak_of_January_21–23,_1999#Little_Rock,_Arkansas_tornadoes) | F3 | | 3 | [📺 KATV](https://www.youtube.com/watch?v=zcTbbuTg4Is)
+| 1999-01-21 | [Little Rock](https://en.wikipedia.org/wiki/Tornado_outbreak_of_January_21–23,_1999#Little_Rock,_Arkansas_tornadoes) | F3 | 0.4 mi  | 3 | [📺 KATV](https://www.youtube.com/watch?v=zcTbbuTg4Is)
 | 1999-05-03 | [Bridge Creek - Moore Tornado](https://en.wikipedia.org/wiki/1999_Bridge_Creek–Moore_tornado) | F5 | 1 mi | 36 | [📺🚁 KFOR](https://www.youtube.com/watch?v=SspJqjf5gyI) | [📺🚁 KWTV](https://www.youtube.com/watch?v=KNIDjqts27E) | [📺📹 KOCO](https://www.youtube.com/watch?v=RGiI7DzpFmg) | |
 
 ## 2000s
