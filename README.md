@@ -34,6 +34,7 @@ A collection of extended recordings of archived tornado coverage from various me
 
 | Date       | Event              | Max Rating | Width | Fatalities | - | - | - | - | - |
 | -----------| ------------------ | ---------- | ----- | ---------- | - | - | - | - | - |
+| 1998-04-16 | [Lawrence County, TN](https://en.wikipedia.org/wiki/Tornado_outbreak_of_April_15–16,_1998#Lawrence_County,_Tennessee_(The_Forgotten_F5)) | F5 |  | 0 | [📺 WHNT](https://www.youtube.com/watch?v=z7XThkkKgcY) | 
 | 1999-05-03 | [Bridge Creek - Moore Tornado](https://en.wikipedia.org/wiki/1999_Bridge_Creek–Moore_tornado) | F5 | 1 mi | 36 | [📺🚁 KFOR](https://www.youtube.com/watch?v=SspJqjf5gyI) | [📺🚁 KWTV](https://www.youtube.com/watch?v=KNIDjqts27E) | [📺📹 KOCO](https://www.youtube.com/watch?v=RGiI7DzpFmg) | |
 
 ## 2000s
