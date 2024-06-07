@@ -25,6 +25,7 @@ A collection of extended recordings of archived tornado coverage from various me
 ## 1980s
 | Date       | Event              | Max Rating | Width | Fatalities | - | - | - | - | - |
 | -----------| ------------------ | ---------- | ----- | ---------- | - | - | - | - | - |
+| 1980-05-13 | [Kalamazoo](https://en.wikipedia.org/wiki/1980_Kalamazoo_tornado) | F3 | | 5 | [📺 WOOD (after storm report)](https://www.youtube.com/watch?v=2_yyLv4X0Bc) | 
 | 1984-03-29 | [Carolinas](https://en.wikipedia.org/wiki/1984_Carolinas_tornado_outbreak) | F4 | 2.5 mi | 57 | [📺 WRAL (after storm special)](https://www.youtube.com/watch?v=-A4T8rCIJSQ) | 
 | 1986-07-18 | Friedly, MN | F2 |  | 0 | [📺🚁 KARE](https://www.youtube.com/watch?v=SphbqvD7qSQ) |
 
