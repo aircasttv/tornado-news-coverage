@@ -35,7 +35,7 @@ A collection of extended recordings of archived real-time tornado coverage from 
 | Date       | Event              | Max Rating | Width | Fatalities | - | - | - | - | - |
 | -----------| ------------------ | ---------- | ----- | ---------- | - | - | - | - | - |
 | 1991-04-26 | [Andover, KS](https://en.wikipedia.org/wiki/1991_Andover_tornado_outbreak) | F5 | 0.4mi | 17 | [📡 Weather Channel](https://www.youtube.com/watch?v=LQrKUEL6wq4) | 
-| 1992-03-09 | Greensboro, AL | F3 | 0.25 mi | 3 | [📺 WBRC] 
+| 1992-03-09 | Greensboro, AL | F3 | 0.25 mi | 3 | [📺 WBRC](https://www.youtube.com/watch?v=COT1JL3EJM4)
 | 1996-05-27 | [Lousiville suburbs](https://en.wikipedia.org/wiki/May_1996_Kentucky_tornado_outbreak#Southern_Louisville_suburbs_tornado) | F4 | 0.5 | 0 | [📺 WAVE, WHAS, WDRB (aftermath and other storms)](https://www.youtube.com/watch?v=frWbyRiXkSg) |
 | 1998-04-08 | [Birmingham](https://en.wikipedia.org/wiki/Tornado_outbreak_of_April_6–9,_1998#Birmingham,_Alabama) | F5 | 0.75mi | 32 | [📺 WBMA](https://www.youtube.com/watch?v=Uqvre6mHm9c) 
 | 1998-04-16 | [Lawrence County, TN](https://en.wikipedia.org/wiki/Tornado_outbreak_of_April_15–16,_1998#Lawrence_County,_Tennessee_(The_Forgotten_F5)) | F5 |  | 0 | [📺 WHNT](https://www.youtube.com/watch?v=z7XThkkKgcY) | 
