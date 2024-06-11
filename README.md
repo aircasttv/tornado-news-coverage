@@ -60,6 +60,7 @@ A collection of extended recordings of archived real-time tornado coverage from 
 ## 2020s 
 | Date       | Event              | Max Rating | Width | Fatalities | - | - | - | - | - |
 | -----------| ------------------ | ---------- | ----- | ------- | - | - | - | - | - |
+| 2023-03-31 | Little Rock, AR    | [📺📹 KATV](https://www.youtube.com/watch?v=lK_zZwqPeG0) | 
 | 2024-05-25 | [North Texas](https://en.wikipedia.org/wiki/Tornado_outbreak_sequence_of_May_19–27,_2024#Forestburg–Era–Valley_View–Pilot_Point,_Texas) | EF3 | | 7 | [📺 WFAA (DFW)](https://www.youtube.com/live/ndpRZ8F9lFI?si=bVaIcyfbd47Sx5Hk&t=135) | [📺 KTVT CBS 11 (DFW)](https://www.youtube.com/watch?v=ajqIKI8ytqw)
 | 2024-05-25 | Claremore, OK      | EF3 | 1.1 miles | 2 | [📺 KOTV](https://www.youtube.com/live/0dT-V8njk0g?si=eqN4BGcjSMzQMaL2&t=5152)  |
 | 2024-05-26 | Rogers, AR         | EF2 | 1.7 miles | 0 | [📺 KFSM](https://www.youtube.com/watch?v=Ey1chYEyiM4) | [📺 KNWA](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1025982748941181) |
