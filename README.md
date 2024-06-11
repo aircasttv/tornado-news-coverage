@@ -13,7 +13,7 @@ A collection of extended recordings of archived real-time tornado coverage from 
 ## 1960s
 | Date       | Event              | Max Rating | Width | Fatalities | - | - | - | - | - |
 | -----------| ------------------ | ---------- | ----- | ---------- | - | - | - | - | - |
-| 1965-05-06 | [Twin Cities outbreak](https://en.wikipedia.org/wiki/Early_May_1965_tornado_outbreak#May_6) | F5 | 0.75 mi | 13 | [📻 WCCO AM (part 1)](https://www.youtube.com/watch?v=z37FK8l1lOY), [Part 2](https://www.youtube.com/watch?v=WUW3r5BlVrU&t=0s), [Part 3](https://www.youtube.com/watch?v=3-oXthHqDLk&t=0s) | | |
+| 1965-05-06 | [Twin Cities outbreak](https://en.wikipedia.org/wiki/Early_May_1965_tornado_outbreak#May_6) | F5 | 0.75 mi | 13 | [📻 WCCO AM (part 1)](https://www.youtube.com/watch?v=z37FK8l1lOY), [Part 2](https://www.youtube.com/watch?v=WUW3r5BlVrU&t=0s), [Part 3](https://www.youtube.com/watch?v=3-oXthHqDLk&t=0s) | [📺 WALC-TV (Nashville)](https://www.youtube.com/watch?v=SipeDK2E_xc) | |
 
 
 ## 1970s
